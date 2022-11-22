@@ -1,4 +1,4 @@
-Powered by Powered by [Cyber Engine Tweaks](https://github.com/yamashi/CyberEngineTweaks)
+Powered by [Cyber Engine Tweaks](https://github.com/yamashi/CyberEngineTweaks)
 
 # Better Consumables
 
